@@ -1,7 +1,5 @@
 # Oi, sou a Lua Gomes👋
 
-<img src="https://placehold.co/200x150" width="200px" align="right" >
-
 - 💻 Desenvolvedora em andamento
 - 🍎 Em aprendizando pela Cubos Academy
 - 🎓 Formada em Ciências da Computação - UFRPE
