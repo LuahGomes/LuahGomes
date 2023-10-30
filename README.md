@@ -1,6 +1,11 @@
 # Oi, sou a Lua Gomes👋
 
-<img src="https://C:\Users\Luann\Desktop\Pasta_Lua.png" width="200px" align="right" >
+
+<div align="center">
+  <img src = "https://github.com/LuahGomes/LuahGomes/assets/113632106/c1ed1cce-b508-4110-a748-532589ff8027.jpeg width="400px" height="280px" align="right"> 
+</div>
+
+
 
 - 💻 Desenvolvedora em andamento
 - 🍎 Em aprendizando pela Cubos Academy
@@ -9,8 +14,10 @@
 - 🎮 Amo joguinhos de fazendinhas ou tudo que construa
 - 📖 Sou apaixonada pela leitura
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luannagfj18/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luannagomesfj/)
+
 
 ### Skills:
 
