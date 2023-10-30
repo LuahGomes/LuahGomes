@@ -1,5 +1,7 @@
 # Oi, sou a Lua Gomes👋
 
+<img src="https://C:\Users\Luann\Desktop\Pasta_Lua.png" width="200px" align="right" >
+
 - 💻 Desenvolvedora em andamento
 - 🍎 Em aprendizando pela Cubos Academy
 - 🎓 Formada em Ciências da Computação - UFRPE
