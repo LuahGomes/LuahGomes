@@ -1,12 +1,6 @@
 # Oi, sou a Lua Gomes👋
 
 
-<div align="center">
-  <img src = "https://github.com/LuahGomes/LuahGomes/assets/113632106/c1ed1cce-b508-4110-a748-532589ff8027.jpeg width="400px" height="280px" align="right"> 
-</div>
-
-
-
 - 💻 Desenvolvedora em andamento
 - 🍎 Em aprendizando pela Cubos Academy
 - 🎓 Formada em Ciências da Computação - UFRPE
