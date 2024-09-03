@@ -1,9 +1,7 @@
 # Oi, sou a Lua Gomes👋
 
-
-- 💻 Desenvolvedora em andamento
-- 🍎 Em aprendizando pela Cubos Academy
 - 🎓 Formada em Ciências da Computação - UFRPE
+- 💻 Desenvolvedora
 - 👦 Sou mãe de Miguel em todas as horas 😄
 - 🎮 Amo joguinhos de fazendinhas ou tudo que construa
 - 📖 Sou apaixonada pela leitura
